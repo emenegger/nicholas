@@ -1,0 +1,44 @@
+* {
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+.title{
+  font-family: 'Pangolin', cursive;
+  background-color:#8000FF;
+  border: dashed black;
+  text-align: center;
+  font-size: 40px;
+}
+
+#welcoming {
+    font-family: 'Pangolin', cursive;
+    background-color:#25408d;
+    color: white;
+    border: Dotted white;
+    width: 29%;
+    display: inline-block;
+    height: 400px;
+    position: relative;
+    top: -230;
+    left: 0;
+}
+
+
+.body{ 
+    background-color:#ddddff;
+}
+
+.everything{
+    border:dotted red;
+}
+
+ #logo {
+   max-height: 400px; 
+   width: 100%;
+ }
+
+.image{ 
+  display:inline-block;
+  width: 70%;
+}
